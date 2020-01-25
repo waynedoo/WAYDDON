@@ -1,0 +1,104 @@
+----------------------------ADICIONAR E REMOVER CANAIS---------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR white]AREA IPTV2[/COLOR][/B][B][COLOR red]CANAIS ATUALIZADOS RECENTEMENTE ![/COLOR] [/B]</title>
+<link>IGNOREME</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sejam Bem Vindos a area de canais,todos os canais listados aqui estao disponiveis em seus respectivo servidores! Canais livres e de livre uso! OBRIGADO!</info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item> 
+<title>[B][COLOR yellow]CANAL 01  [/COLOR][/B][B]TV CIDADE VERDE - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</fanart>
+<info>VARIEDADES</info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B] REDE TV - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8</link>
+<thumbnail>https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg</thumbnail>
+<fanart>https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg</fanart>
+<info>VARIEDADES</info>
+</item>
+
+<item>
+<title>[B][COLOR yellow]CANAL 03  [/COLOR][/B][B]TV JORNAL - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</fanart>
+<info>JORNAL</info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]SBT PERNAMBUCO - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 05  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 06  [/COLOR][/B][B]SEM LINK - [COLOR yellow][/COLOR] [/B]</title>
+<link>URL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 07  [/COLOR][/B][B]SEM LINK - [COLOR yellow][/COLOR] [/B]</title>
+<link>URL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 08  [/COLOR][/B][B]SEM LINK - [COLOR yellow][/COLOR] [/B]</title>
+<link>URL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 09  [/COLOR][/B][B]SEM LINK - [COLOR yellow][/COLOR] [/B]</title>
+<link>URL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[B][COLOR yellow]CANAL 09  [/COLOR][/B][B]SEM LINK - [COLOR yellow][/COLOR] [/B]</title>
+<link>URL</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
